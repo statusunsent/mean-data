@@ -12,6 +12,7 @@
     pkgs.git
     pkgs.gitleaks
     pkgs.pre-commit
+    pkgs.zstd
   ];
 
   # https://devenv.sh/languages/
